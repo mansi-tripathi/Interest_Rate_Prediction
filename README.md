@@ -1,5 +1,5 @@
 # Interest_Rate_Prediction
-This Project is based on Prediction of Interest Rates of Loans Loan Data. 
+This Project predicts the Interest Rates of Loans using the historic Loan Data. 
 
 ### Data
 Download the Data from https://www.kaggle.com/wendykan/lending-club-loan-data
