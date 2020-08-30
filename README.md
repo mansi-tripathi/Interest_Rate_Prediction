@@ -21,7 +21,7 @@ The 'Code' folder has the following 5 sub-folders. The task of files under each 
 5. Testing: This notebook is used to test the accuracy of the predicts.
 
 ### Evaluation Metrics
-This doc file shows the outcome of the various ML Models we implemented in the project
+This document mentions the outcome of the various ML Models we implemented in the project in detail.
 
 ### Visualization
 After we had trained and tested the data, we visualized our finding in Tableau. The details of the same are available in this folder. This helps us understand the pattern and trends in our data as well as get insights for better decision making.
